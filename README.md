@@ -1,4 +1,4 @@
-# pet-project-task-list-vue
+# task-list-vue.js
 
 ## Project setup
 ```
